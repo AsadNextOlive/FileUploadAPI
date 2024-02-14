@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F80KfSi5elf1LgR4rfXKPP2qZQtGcjXz5cz5BMIXN8c=",
+  "Source": "TestRegisterAPI",
+  "BasePath": "_content/TestRegisterAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
